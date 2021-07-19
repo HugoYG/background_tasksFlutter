@@ -1,6 +1,6 @@
 # flutter_background_check
 
-A new Flutter application.
+A new Flutter application to perform background tasks on IOS and Android
 
 ## Getting Started
 
